@@ -1,0 +1,7 @@
+node_modules
+distribution
+.DS_Store
+package
+smhi*.tgz
+npm-debug.log
+.vscode
